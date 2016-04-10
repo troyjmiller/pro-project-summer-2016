@@ -10,6 +10,14 @@ Here's how Pro works.
 It is important that you keep your project documentation up to date
 since this is how you and everyone else keeps track of your project.
 
+Table of Contents
+-----------------
+
+* [Schedule, Deadlines, Log](schedule.md)
+* [Project Plan](plan.md)
+* [Peer Review](peers.md)
+* [Final Report](report.md)
+
 ## Three Strikes
 
 Pro carries a higher standard of personal responsibility and
