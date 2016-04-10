@@ -1,8 +1,7 @@
 # SkilStak Pro Schedule - Summer 2016
 
 Here are the dates and deadlines you will need to remember. **Missing
-any deadline will result in a [*Critical
-Issue.*](README.md#critical-issues)**
+any deadline will result in a [*Strike*](README.md#three-strikes)**
 
 Keep in mind it is up to you to do your own makeups and take any
 additional time outside of class to work on your project. You can
