@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Finished the Markdown tutorial and decided on my project.
 
 ## What will you do next week?
 
-*Your answer.*
+Plan out the path to making my project.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No internet at the beach.
 
