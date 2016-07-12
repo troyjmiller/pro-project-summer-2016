@@ -17,7 +17,9 @@
 
 ## Reference Links
 *[http://code.activestate.com/recipes/578589-poker-hands/](http://code.activestate.com/recipes/578589-poker-hands/)
+
 *[http://code.activestate.com/recipes/415504/](http://code.activestate.com/recipes/415504/)
+
 *[https://github.com/jfilliben/poker-sim/blob/master/pokersim.py](https://github.com/jfilliben/poker-sim/blob/master/pokersim.py)
 *Most Pro projects will have one or more other repos or even an
 organization to contain the actual source code. Link to it here.
