@@ -2,11 +2,11 @@
 
 ## What did you do last week?
 
-Set up all suits and number into classes
+Confirmed project idea and found sources determining how I should go about coding my project.
 
 ## What will you do next week?
 
-Program something that can find what type of hand a person has been dealt
+Begin my program with the sum of the information I find
 
 ## Do you have any blockers?
 
