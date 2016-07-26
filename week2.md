@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Set up all suits and number into classes
 
 ## What will you do next week?
 
-*Your answer.*
+Program something that can find what type of hand a person has been dealt
 
 ## Do you have any blockers?
 
-*Your answer.*
+N/A
 
