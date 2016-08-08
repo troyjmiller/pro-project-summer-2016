@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Looked through three ways of going through to the second step of my project and chose one direction to go in. Set up variables to check each type of deck.
 
 ## What will you do next week?
 
-*Your answer.*
+Set up the rest of the variables and combine them to create something that works. 
 
 ## Do you have any blockers?
 
-*Your answer.*
+N/A
 
