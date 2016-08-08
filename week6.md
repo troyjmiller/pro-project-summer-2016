@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Everything works and I ran out of tiem to add more features, so my project is complete because I will not be here next week
 
 ## What will you do next week?
 
-*Your answer.*
+I will not be here so I finished my project.
 
 ## Do you have any blockers?
 
-*Your answer.*
+Time
 
